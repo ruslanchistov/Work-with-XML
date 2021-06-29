@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<handbook>
+    <person>
+        <name>
+            Ivanov Ivan Ivanovich
+        </name>
+        <phone>
+            254-56-90
+        </phone>
+        <email>
+            III@gmail.com
+        </email>
+    </person>
+    <person>
+        <name>
+            Semenov Semen Semenovich
+        </name>
+        <phone>
+            123-45-67
+        </phone>
+        <email>
+            SSS@mail.ru
+        </email>
+    </person>
+    <person>
+        <name>
+            Petrov Petr Petrovich
+        </name>
+        <phone>
+            478-09-00
+        </phone>
+        <email>
+            PPP@yandex.ru
+        </email>
+    </person>
+    <person>
+        <name>
+            Dmitriev Dmitri Dmitrievich
+        </name>
+        <phone>
+            876-10-55
+        </phone>
+        <email>
+            DDD@gmail.com
+        </email>
+    </person>
+</handbook>
