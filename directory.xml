@@ -2,46 +2,46 @@
 <handbook>
     <person>
         <name>
-            Ivanov Ivan Ivanovich
+            Ivanov_Ivan
         </name>
         <phone>
             254-56-90
         </phone>
         <email>
-            III@gmail.com
+            II@gmail.com
         </email>
     </person>
     <person>
         <name>
-            Semenov Semen Semenovich
+            Semenov_Semen
         </name>
         <phone>
             123-45-67
         </phone>
         <email>
-            SSS@mail.ru
+            SS@mail.ru
         </email>
     </person>
     <person>
         <name>
-            Petrov Petr Petrovich
+            Petrov_Petr
         </name>
         <phone>
             478-09-00
         </phone>
         <email>
-            PPP@yandex.ru
+            PP@yandex.ru
         </email>
     </person>
     <person>
         <name>
-            Dmitriev Dmitri Dmitrievich
+            Dmitriev_Dmitri
         </name>
         <phone>
             876-10-55
         </phone>
         <email>
-            DDD@gmail.com
+            DD@gmail.com
         </email>
     </person>
 </handbook>
